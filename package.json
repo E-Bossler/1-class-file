@@ -1,0 +1,20 @@
+{
+  "name": "star-wars",
+  "version": "1.0.0",
+  "description": "best star wars app in the galaxy",
+  "main": "class.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "star",
+    "wars"
+  ],
+  "author": "Eric Bossler",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "inquirer": "^7.0.4"
+  }
+}
